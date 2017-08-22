@@ -1,2 +1,2 @@
 # Hola-Mundo
-Este es un proyecto de prueba
+Este es la rama principal
